@@ -33,6 +33,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8000-dmascoredeclan-i-think-t-vcadjvz8f1.us2.codeanyapp.com',
+    'django-blog-2023-ci-6344546f51a0.herokuapp.com',
     'django-blog-2023-ci.herokuapp.com',
     'localhost'
 ]
